@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//div/p[@class='oxd-text oxd-text--p orangehrm-login-forgot-header']"
+}
